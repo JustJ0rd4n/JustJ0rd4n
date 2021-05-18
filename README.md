@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; Highschool student of class 2023. (10th grade)
 - 💼 &nbsp; [LatamMC](https://www.github.com/LatamMC)'s head developer.
-- 🌱 &nbsp; My goals is to go to [Tokyo tech](https://www.titech.ac.jp/english/), even if my grades are not good I'm doing my best
+- 🌱 &nbsp; My goals is to go to [Tokyo tech](https://www.titech.ac.jp/english/), even if my grades are not good I'm doing my best.
 - ✍️ &nbsp; Learning game development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -23,15 +23,13 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![PHPStorm](https://img.shields.io/badge/-PHPStorm-333333?style=flat&logo=phpstorm)
 
+<h3> 🤝🏻 &nbsp;Contact Me </h3>
+
+- <a href="https://discord.com/users/784189101033127966" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord"></a>
+<a href="https://twitter.com/JustJ0rd4n" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter"></a>
+
 <br/>
 
 <a href="https://github.com/JustJ0rd4n">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustJ0rd4n&theme=buefy&show_icons=true" />
 </a>
-
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<a href="https://discord.com/users/784189101033127966" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord"></a>
-<a href="https://twitter.com/JustJ0rd4n" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter"></a>
