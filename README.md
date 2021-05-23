@@ -5,14 +5,22 @@
 - 🎓 &nbsp; Highschool student of class 2023. (10th grade)
 - 💼 &nbsp; [LatamMC](https://www.github.com/LatamMC)'s head developer.
 - 🌱 &nbsp; My goals is to go to [Tokyo tech](https://www.titech.ac.jp/english/), even if my grades are not good I'm doing my best.
-- ✍️ &nbsp; Learning game development.
+- ✍️ &nbsp; Learning game and applications development.
+
+
+<h3> 📚 &nbsp;Learning</h3>
+
+- 🎮/📱 &nbsp;
+  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=8533ff)
+  ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
+  ![Xamarin](https://img.shields.io/badge/-Xamarin-333333?style=flat&logo=xamarin)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node-dot-js)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![SQLite3](https://img.shields.io/badge/-SQLite3-333333?style=flat&logo=sqlite)
@@ -21,7 +29,8 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![PHPStorm](https://img.shields.io/badge/-PHPStorm-333333?style=flat&logo=phpstorm)
+  ![PHPStorm](https://img.shields.io/badge/-PHPStorm-333333?style=flat&logo=phpstorm&logoColor=d06ef7)
+  ![Rider](https://img.shields.io/badge/-Rider-333333?style=flat&logo=rider&logoColor=ff1a75)
 
 <h3> 🤝🏻 &nbsp;Contact Me </h3>
 
@@ -33,3 +42,4 @@
 <a href="https://github.com/JustJ0rd4n">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustJ0rd4n&theme=buefy&show_icons=true&count_private=true" />
 </a>
+zz
