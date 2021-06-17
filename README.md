@@ -10,25 +10,30 @@
 
 <h3> 📚 &nbsp;Learning</h3>
 
-- 🎮/📱 &nbsp;
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
   ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+<h5> 💻 &nbsp;Languages: </h5>
 
-- 💻 &nbsp;
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-- 🛢 &nbsp;
+
+<h5> 🛢 &nbsp;Databases: </h5>
+
   ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
   ![SQLite3](https://img.shields.io/badge/SQLite3-0080FE?style=for-the-badge&logo=sqlite&logoColor=white)
-- ⚙️ &nbsp;
+
+<h5> ⚙️ &nbsp;Tools: </h5>
+
   ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![NPM](https://img.shields.io/badge/NPM-white?style=for-the-badge&logo=npm&logoColor=white)
-- 🔧 &nbsp;
+
+<h5> 🔧 &nbsp;IDE: </h5>
+
   ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
   ![PHPStorm](https://img.shields.io/badge/PHPStorm-D06EF7?style=for-the-badge&logo=phpstorm&logoColor=black)
   ![Visual Studio](https://img.shields.io/badge/visual%20studio-333333?style=for-the-badge&logo=visual-studio&logoColor=007ACC)
