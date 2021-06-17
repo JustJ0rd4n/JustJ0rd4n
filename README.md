@@ -11,32 +11,32 @@
 <h3> 📚 &nbsp;Learning</h3>
 
 - 🎮/📱 &nbsp;
-  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=8533ff)
-  ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
-  ![Xamarin](https://img.shields.io/badge/-Xamarin-333333?style=flat&logo=xamarin)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+  ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node-dot-js)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![SQLite3](https://img.shields.io/badge/-SQLite3-333333?style=flat&logo=sqlite)
+  ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![SQLite3](https://img.shields.io/badge/SQLite3-0080FE?style=for-the-badge&logo=sqlite&logoColor=white)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm)
+  ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![NPM](https://img.shields.io/badge/NPM-white?style=for-the-badge&logo=npm&logoColor=white)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![PHPStorm](https://img.shields.io/badge/-PHPStorm-333333?style=flat&logo=phpstorm&logoColor=d06ef7)
-  ![Rider](https://img.shields.io/badge/-Rider-333333?style=flat&logo=rider&logoColor=ff1a75)
+  ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+  ![PHPStorm](https://img.shields.io/badge/PHPStorm-D06EF7?style=for-the-badge&logo=phpstorm&logoColor=black)
+  ![Visual Studio](https://img.shields.io/badge/visual%20studio-333333?style=for-the-badge&logo=visual-studio&logoColor=007ACC)
 
 <h3> 🤝🏻 &nbsp;Contact Me </h3>
 
-- <a href="https://discord.com/users/784189101033127966" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord"></a>
-<a href="https://twitter.com/JustJ0rd4n" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter"></a>
+<a href="https://discord.com/users/784189101033127966" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://twitter.com/JustJ0rd4n" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 <br/>
 
