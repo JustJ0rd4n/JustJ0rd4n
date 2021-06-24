@@ -48,5 +48,5 @@
 <a href="https://github.com/JustJ0rd4n">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustJ0rd4n&show_icons=true&count_private=true"/>
   <br/>
-  <img height="215em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustJ0rd4n&layout=compact"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustJ0rd4n&layout=compact"/>
 </a>
