@@ -29,6 +29,7 @@
 
   ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![Composer](https://img.shields.io/badge/Composer-EFE0C4?style=for-the-badge&logo=Composer&logoColor=black)
   ![NPM](https://img.shields.io/badge/NPM-white?style=for-the-badge&logo=npm&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
