@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Highschool student of class 2023. (10th grade)
+- 🎓 &nbsp; Highschool student of class 2023. (11th grade)
 - 💼 &nbsp; [LatamMC](https://www.github.com/LatamMC)'s head developer.
 - 🌱 &nbsp; My goals is to go to [Tokyo tech](https://www.titech.ac.jp/english/), even if my grades are not good I'm doing my best.
 - ✍️ &nbsp; Learning game and applications development.
@@ -50,4 +50,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustJ0rd4n&show_icons=true&count_private=true"/>
   <br/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustJ0rd4n&layout=compact"/>
+  <br/>
+  <img height="155em" src="https://malsignature.com/?/view?username=JustJ0rd4n&style=normal"/>
 </a>
