@@ -19,6 +19,7 @@
 
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 <h5> 🛢 &nbsp;Databases: </h5>
 
@@ -51,5 +52,5 @@
   <br/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustJ0rd4n&layout=compact"/>
   <br/>
-  <img height="155em" src="https://malsignature.com/?/view?username=JustJ0rd4n&style=normal"/>
 </a>
+<a href="https://myanimelist.net/profile/JustJ0rd4n" target="_blank"><img height="155em" src="https://malsignature.com/?/view?username=JustJ0rd4n&style=normal"/> <a/>
