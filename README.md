@@ -42,7 +42,7 @@
 
 <h3> 🤝🏻 &nbsp;Contact Me </h3>
 
-<a href="https://discord.com/users/784189101033127966" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.com/users/805887700208189472" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://twitter.com/JustJ0rd4n" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 <br/>
