@@ -45,11 +45,8 @@
 <a href="https://twitter.com/JustJ0rd4n" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 <br/>
-
-<a href="https://github.com/JustJ0rd4n">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustJ0rd4n&show_icons=true&count_private=true"/>
-  <br/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustJ0rd4n&layout=compact"/>
-  <br/>
-</a>
+<a href="https://github.com/JustJ0rd4n"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustJ0rd4n&show_icons=true&count_private=true"/> </a>
+<br/>
 <a href="https://myanimelist.net/profile/JustJ0rd4n" target="_blank"><img height="155em" src="https://malsignature.com/?/view?username=JustJ0rd4n&style=normal"/> <a/>
+<br/>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img height="62.3em" src="https://profile-counter.glitch.me/JustJ0rd4n/count.svg"/> <a/>
