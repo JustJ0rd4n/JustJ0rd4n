@@ -7,6 +7,10 @@
 - 🌱 &nbsp; My goals is to go to [Tokyo tech](https://titech.ac.jp/english/), even if my grades are not good I'm doing my best.
 - ✍️ &nbsp; Learning game and applications development.
 
+<h3> 📚 &nbsp;Learning</h3>
+
+  ![C++](https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <h5> 💻 &nbsp;Languages: </h5>
 
