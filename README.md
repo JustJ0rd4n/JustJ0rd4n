@@ -4,14 +4,8 @@
 
 - 🎓 &nbsp; Highschool student of class 2023. (11th grade)
 - 💼 &nbsp; [Sheep](https://github.com/Sheep-mc) software maintainer.
-- 🌱 &nbsp; My goals is to go to [Tokyo tech](https://www.titech.ac.jp/english/), even if my grades are not good I'm doing my best.
+- 🌱 &nbsp; My goals is to go to [Tokyo tech](https://titech.ac.jp/english/), even if my grades are not good I'm doing my best.
 - ✍️ &nbsp; Learning game and applications development.
-
-
-<h3> 📚 &nbsp;Learning</h3>
-
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <h5> 💻 &nbsp;Languages: </h5>
@@ -19,6 +13,7 @@
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 <h5> 🛢 &nbsp;Databases: </h5>
 
@@ -32,6 +27,7 @@
   ![Composer](https://img.shields.io/badge/Composer-EFE0C4?style=for-the-badge&logo=Composer&logoColor=black)
   ![NPM](https://img.shields.io/badge/NPM-white?style=for-the-badge&logo=npm&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 <h5> 🔧 &nbsp;IDE: </h5>
 
@@ -49,4 +45,4 @@
 <br/>
 <a href="https://myanimelist.net/profile/JustJ0rd4n" target="_blank"><img height="155em" src="https://malsignature.com/?/view?username=JustJ0rd4n&style=normal"/> <a/>
 <br/>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img height="62.3em" src="https://profile-counter.glitch.me/JustJ0rd4n/count.svg"/> <a/>
+<a href="https://youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img height="62.3em" src="https://profile-counter.glitch.me/JustJ0rd4n/count.svg"/> <a/>
