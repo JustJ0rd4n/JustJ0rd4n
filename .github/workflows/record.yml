@@ -12,7 +12,9 @@ jobs:
 
       - name: Get current date
         id: date
-        run: echo "::set-output name=date::$(date +'%Y-%m')"
+        run: |
+          echo "::set-output name=date::$(date +'%Y-%m')"
+          echo "::set-output name=year::$(date +'%Y')"
 
       - name: Create Release
         id: nightly-snapshot
@@ -25,6 +27,6 @@ jobs:
           draft: true
           body: |
             # Description:
-            ### This is a record of my progress from 2021. I'm planning to create a release every two-to-three months.
+            ### This is a record of my progress from ${{ steps.date.outputs.year }}. Releases like this would be made every two-to-three months.
 
             #### Note: I actually started programming in 2018 with PHP but got into programming seriously in 2019 and many things are not recorded here.
