@@ -1,0 +1,31 @@
+name: Record progress
+
+on:
+  workflow_dispatch:
+
+jobs:
+  record:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Get current date
+        id: date
+        run: |
+          echo "::set-output name=date::$(date +'%Y-%m')"
+          echo "::set-output name=year::$(date +'%Y')"
+
+      - name: Create Release
+        id: nightly-snapshot
+        uses: actions/create-release@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ steps.date.outputs.date }}
+          release_name: ${{ steps.date.outputs.date }}
+          body: |
+            # Description:
+            ### This is a record of my progress from ${{ steps.date.outputs.year }}. Releases like this would be made every two-to-three months.
+
+            #### Note: I actually started programming in 2018 with PHP but got into programming seriously in 2019 and many things are not recorded here.
