@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  record:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -24,7 +24,6 @@ jobs:
         with:
           tag_name: ${{ steps.date.outputs.date }}
           release_name: ${{ steps.date.outputs.date }}
-          draft: true
           body: |
             # Description:
             ### This is a record of my progress from ${{ steps.date.outputs.year }}. Releases like this would be made every two-to-three months.
