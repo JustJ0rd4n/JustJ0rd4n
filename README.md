@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Highschool student of class 2023. (11th grade)
-- 🌱 &nbsp; My goals is to go into a University and study general computer scince, even if my grades are not good I'm doing my best.
+- 🌱 &nbsp; My goals is to go into a University and study general computer science, even if my grades are not good I'm doing my best.
 - ✍️ &nbsp; Learning game and applications development.
 
 <h3> 📚 &nbsp;Learning</h3>
